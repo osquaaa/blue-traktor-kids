@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   color: #fff;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
 .container {
@@ -42,7 +42,7 @@ body {
     font-family: 'Kanit';
     font-weight: 500;
     font-size: 30px;
-    color: #893d1e;
+    color: #ffe5db;
 }
 .header-img{
     padding-left: 10px;
@@ -161,3 +161,16 @@ iframe{
         row-gap: 40px;
     }
 } */
+
+
+
+
+
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #E27D60;
+    padding-top: 15px;
+    font-weight: 200;
+}
