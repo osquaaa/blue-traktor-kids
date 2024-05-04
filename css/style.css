@@ -111,13 +111,13 @@ body {
 }
 .main-title::before{
     content: '';
-    background-color: #ffffff7e;
+    background-color: #ffffffba;
     width: 230px;
     height: 50px;
     position: absolute;
     z-index: -1;
     left: -10px;
-    filter: blur(25px);
+    filter: blur(20px);
 }
 .main__content{
 
@@ -211,4 +211,8 @@ iframe{
     color: #E27D60;
     padding-top: 15px;
     font-weight: 200;
+}
+.copyright a{
+    color: #363636;
+    text-decoration: underline;
 }
